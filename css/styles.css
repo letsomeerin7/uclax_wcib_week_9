@@ -1,11 +1,12 @@
 html {
   background-color: #012a36;
   color: #ffffff;
-  text-align: center;
   font-family: georgia, serif;}
 
 h1 {
-  font-size: 25px;}
+  font-size: 25px;
+  margin: 100px;
+  text-align: center;}
 
 h2 {
   font-size: 18px;}
