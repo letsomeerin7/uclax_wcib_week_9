@@ -11,4 +11,8 @@ h2 {
   font-size: 18px;}
 
 p a {
+  color: #ffffff;
   font-size: 14px;}
+
+  ul {
+    list-style-position: inside;}
